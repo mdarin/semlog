@@ -1,0 +1,56 @@
+# Core AI/ML
+sentence-transformers==2.2.2
+torch==2.1.0
+transformers==4.35.2
+numpy==1.24.3
+scikit-learn==1.3.2
+
+# Vector Database
+qdrant-client==1.9.0
+
+# Web & API
+fastapi==0.104.1
+uvicorn==0.24.0
+requests==2.31.0
+aiohttp==3.9.1
+
+# Data Processing & Utilities
+pandas==2.1.3
+python-dateutil==2.8.2
+pytz==2023.3
+pyyaml==6.0.1
+
+# Logging & Monitoring
+structlog==23.2.0
+prometheus-client==0.19.0
+
+# CLI & Interactive
+click==8.1.7
+rich==13.7.0
+tqdm==4.66.1
+
+# Scheduling & Async
+schedule==1.2.0
+asyncio-mqtt==0.13.0
+
+# Docker Integration
+docker==6.1.3
+
+# Development & Testing
+pytest==7.4.3
+black==23.11.0
+flake8==6.1.0
+mypy==1.7.1
+
+# Hugging Face Ecosystem
+huggingface-hub==0.19.4
+tokenizers==0.15.0
+datasets==2.15.0
+
+# Image Processing (для multi-modal моделей)
+pillow==10.1.0
+opencv-python==4.8.1.78
+
+# Performance
+psutil==5.9.6
+pydantic==2.5.0
